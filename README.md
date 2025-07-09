@@ -1,7 +1,7 @@
 # NanoPolyTech_Uzbekistan
 Karayev Sherali Tukhtayevichning  4-blokli ilmiy-texnologik innovatsion platformasi: 40 sektor, 401 loyiha.
 # NanoPolyTech Uzbekistan
-**“Kichik zarrachalardan buyuk kelajakka”**
+**“Kichik zarrachalardan buyuk kelajak sari”**
 
 ## 📌 Loyiha haqida
 
@@ -36,6 +36,8 @@ Ilmiy yo‘nalishlar: polimer kimyosi, stabilizatorlar, nano kompozitlar, AI aso
 ---
 
 ## 🌍 Maqsad:
+
+Loyihaning bosh maqsadi — ichki ehtiyojni qoplash, eksportga yo‘naltirilgan mahsulotlar ishlab chiqarish, importni kamaytirish va yangi ish o‘rinlari yaratish orqali Respublikamizni ilmiy-innoatsion global texnologik markazga aylantirishdir.
 
 O‘zbekistonni nano, AI va ilg‘or texnologiyalarga asoslangan, eksportbop mahsulotlar ishlab chiqaruvchi **mustaqil texnologik davlatga** aylantirish.
 
