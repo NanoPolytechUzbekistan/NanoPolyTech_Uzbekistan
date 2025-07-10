@@ -105,3 +105,17 @@ Yo‘nalishlar: quantum sensorlar, smart matolar, kosmik nano tizimlar
 > “We pave the way to a great future through nano particles.”  
 > «Мы прокладываем путь к великому будущему через нано-частицы.»  
 > “Biz kichik zarrachalardan buyuk kelajakka yo‘l ochamiz!”
+
+## 🔑 Kalit so‘zlar (Keywords) / Tags
+
+**O‘zbekcha:**  
+Nano texnologiya, O‘zbekiston innovatsiyasi, texnologik suverenitet, AI sanoat, kelajak texnologiyalari, ilmiy platforma, polimer, stabilizator, yoshlar startapi, sanoat inqilobi
+
+**English:**  
+Nanotechnology, Uzbekistan innovation, technological sovereignty, AI industry, future technologies, scientific platform, polymers, stabilizers, youth startup, industrial revolution
+
+**Русский:**  
+Нанотехнологии, инновации Узбекистана, технологический суверенитет, ИИ промышленность, технологии будущего, научная платформа, полимеры, стабилизаторы, стартапы молодежи, индустриальная революция
+
+---
+
