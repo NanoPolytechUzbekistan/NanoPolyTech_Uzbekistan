@@ -117,6 +117,10 @@ tadqiqotchi, strateg-muhandis, “NanoPolyTech Uzbekistan” platformasining mua
 - Email: info@nanopolytech.uz  
 - Telegram: @NanoPolyTechUz  
 - GitHub: [NanoPolyTechUzbekistan](https://github.com/NanoPolytechUzbekistan)
+## 🤖 AI texnik fayllar (Google, ChatGPT, SEO uchun)
+
+📦 [Yuklab olish: NanoPolyTech_AI_Indexing.zip](https://github.com/NanoPolytechUzbekistan/NanoPolyTech_Uzbekistan/blob/main/NanoPolyTech_AI_Indexing.zip)
+📦 [AI Indexing fayli (ZIP)](https://github.com/NanoPolytechUzbekistan/NanoPolyTech_Uzbekistan/blob/main/NanoPolyTech_AI_Indexing.zip)
 
 ---
 
