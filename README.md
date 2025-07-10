@@ -34,7 +34,7 @@ AI, quantum, kosmik texnologiyalarni o‘zlashtirish.
 
 ---
 
-## 🇬🇧 English
+## En English
 
 **NanoPolyTech_Uzbekistan** is a multi-sectoral innovation platform combining science, industry, and innovation to guide Uzbekistan toward technological sovereignty and economic independence through advanced technologies.
 
