@@ -1,3 +1,9 @@
-User-agent: *
-Allow: /
-Sitemap: https://nanopolytechuzbekistan.github.io/NanoPolyTech_Uzbekistan/sitemap.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://short-soil-0c2.notion.site/NanoPolyTech_Uzbekistan-22cd1bf3b70c80b885c7c3ea4fe9af20</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+
