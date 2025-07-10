@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanopolytechuzbekistan.github.io/NanoPolyTech_Uzbekistan/sitemap.xml
