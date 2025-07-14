@@ -1,3 +1,5 @@
+// NanoPolyTech Uzbekistan - Full Landing Page with Multilingual Support and Complete Content
+
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 
@@ -27,7 +29,7 @@ export default function NanoPolyTechUzbekistanFull() {
       <LanguageSwitcher language={language} setLanguage={setLanguage} />
       <Header />
       <div className="mt-6 text-center text-gray-500">
-        <p>📌 Bu tayyor deploy versiyasi. Endi bemalol GitHub Pages’ga chiqarish mumkin.</p>
+        <p>📌 To‘liq kontent yuklandi! Endi bloklar, shaxsiy ma'lumot va kontaktlar joylashmoqda.</p>
       </div>
     </div>
   );
