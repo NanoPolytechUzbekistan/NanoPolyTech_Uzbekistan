@@ -1,3 +1,11 @@
+![NanoPolyTech Logo](https://github.com/NanoPolytechUzbekistan/NanoPolyTech_Uzbekistan/raw/main/Logo.png)
+
+# NanoPolyTech Uzbekistan
+
+> “Kichik zarrachalardan buyuk kelajak sari”
+
+🌐 Sayt: [NanoPolyTech Uzbekistan](https://nanopolytechuzbekistan.github.io/NanoPolyTech_Uzbekistan/)
+
 ![NanoPolyTech Uzbekistan Logo](./Logo.png)
 
 **NanoPolyTech Uzbekistan**  
