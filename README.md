@@ -1,3 +1,7 @@
+![NanoPolyTech Uzbekistan Logo](./Logo.png)
+
+**NanoPolyTech Uzbekistan**  
+*Kichik zarrachalardan buyuk kelajak sari*
 # NanoPolyTech Uzbekistan
 
 🇺🇿 **“Kichik zarrachalardan buyuk kelajak sari”**  
